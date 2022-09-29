@@ -181,7 +181,7 @@ nav {
 .header-main {
     position: relative;
     width: 100%;
-    background-color: var(--VeryDarkViolet);
+    background-color: var(--DarkViolet);
 
     min-height: 100vh;
 }
